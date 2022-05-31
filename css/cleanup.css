@@ -1,1 +1,21 @@
 /* write your override styles here */
+.parent{
+    width: auto;
+    display: none;
+  }
+  .tag-1{
+      width: auto;
+      display: none;
+  }
+  .tag-2{
+      width: auto;
+      display: none;
+  }
+  #wall{
+      width: auto;
+      display: none;
+  }
+  .tag-3{
+      width: auto;
+      display: none;
+  }
